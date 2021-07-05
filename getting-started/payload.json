@@ -1,0 +1,190 @@
+{
+  "ref": "refs/heads/main",
+  "before": "b718c42fac2ee9d48df563fab1f62a92bef6053f",
+  "after": "8f70f8f595f235f6f348c6e9c4df97a5275a9597",
+  "repository": {
+    "id": 383089977,
+    "node_id": "MDEwOlJlcG9zaXRvcnkzODMwODk5Nzc=",
+    "name": "quarkus-quickstarts",
+    "full_name": "gamagnolo/quarkus-quickstarts",
+    "private": false,
+    "owner": {
+      "name": "gamagnolo",
+      "email": "36188057+gamagnolo@users.noreply.github.com",
+      "login": "gamagnolo",
+      "id": 36188057,
+      "node_id": "MDQ6VXNlcjM2MTg4MDU3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/36188057?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/gamagnolo",
+      "html_url": "https://github.com/gamagnolo",
+      "followers_url": "https://api.github.com/users/gamagnolo/followers",
+      "following_url": "https://api.github.com/users/gamagnolo/following{/other_user}",
+      "gists_url": "https://api.github.com/users/gamagnolo/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/gamagnolo/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/gamagnolo/subscriptions",
+      "organizations_url": "https://api.github.com/users/gamagnolo/orgs",
+      "repos_url": "https://api.github.com/users/gamagnolo/repos",
+      "events_url": "https://api.github.com/users/gamagnolo/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/gamagnolo/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "html_url": "https://github.com/gamagnolo/quarkus-quickstarts",
+    "description": "Quarkus quickstart code",
+    "fork": true,
+    "url": "https://github.com/gamagnolo/quarkus-quickstarts",
+    "forks_url": "https://api.github.com/repos/gamagnolo/quarkus-quickstarts/forks",
+    "keys_url": "https://api.github.com/repos/gamagnolo/quarkus-quickstarts/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/gamagnolo/quarkus-quickstarts/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/gamagnolo/quarkus-quickstarts/teams",
+    "hooks_url": "https://api.github.com/repos/gamagnolo/quarkus-quickstarts/hooks",
+    "issue_events_url": "https://api.github.com/repos/gamagnolo/quarkus-quickstarts/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/gamagnolo/quarkus-quickstarts/events",
+    "assignees_url": "https://api.github.com/repos/gamagnolo/quarkus-quickstarts/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/gamagnolo/quarkus-quickstarts/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/gamagnolo/quarkus-quickstarts/tags",
+    "blobs_url": "https://api.github.com/repos/gamagnolo/quarkus-quickstarts/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/gamagnolo/quarkus-quickstarts/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/gamagnolo/quarkus-quickstarts/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/gamagnolo/quarkus-quickstarts/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/gamagnolo/quarkus-quickstarts/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/gamagnolo/quarkus-quickstarts/languages",
+    "stargazers_url": "https://api.github.com/repos/gamagnolo/quarkus-quickstarts/stargazers",
+    "contributors_url": "https://api.github.com/repos/gamagnolo/quarkus-quickstarts/contributors",
+    "subscribers_url": "https://api.github.com/repos/gamagnolo/quarkus-quickstarts/subscribers",
+    "subscription_url": "https://api.github.com/repos/gamagnolo/quarkus-quickstarts/subscription",
+    "commits_url": "https://api.github.com/repos/gamagnolo/quarkus-quickstarts/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/gamagnolo/quarkus-quickstarts/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/gamagnolo/quarkus-quickstarts/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/gamagnolo/quarkus-quickstarts/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/gamagnolo/quarkus-quickstarts/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/gamagnolo/quarkus-quickstarts/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/gamagnolo/quarkus-quickstarts/merges",
+    "archive_url": "https://api.github.com/repos/gamagnolo/quarkus-quickstarts/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/gamagnolo/quarkus-quickstarts/downloads",
+    "issues_url": "https://api.github.com/repos/gamagnolo/quarkus-quickstarts/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/gamagnolo/quarkus-quickstarts/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/gamagnolo/quarkus-quickstarts/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/gamagnolo/quarkus-quickstarts/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/gamagnolo/quarkus-quickstarts/labels{/name}",
+    "releases_url": "https://api.github.com/repos/gamagnolo/quarkus-quickstarts/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/gamagnolo/quarkus-quickstarts/deployments",
+    "created_at": 1625478331,
+    "updated_at": "2021-07-05T20:26:23Z",
+    "pushed_at": 1625517469,
+    "git_url": "git://github.com/gamagnolo/quarkus-quickstarts.git",
+    "ssh_url": "git@github.com:gamagnolo/quarkus-quickstarts.git",
+    "clone_url": "https://github.com/gamagnolo/quarkus-quickstarts.git",
+    "svn_url": "https://github.com/gamagnolo/quarkus-quickstarts",
+    "homepage": "https://quarkus.io",
+    "size": 4552,
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "language": "Java",
+    "has_issues": false,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": true,
+    "has_pages": false,
+    "forks_count": 0,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 0,
+    "license": {
+      "key": "apache-2.0",
+      "name": "Apache License 2.0",
+      "spdx_id": "Apache-2.0",
+      "url": "https://api.github.com/licenses/apache-2.0",
+      "node_id": "MDc6TGljZW5zZTI="
+    },
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "default_branch": "main",
+    "stargazers": 0,
+    "master_branch": "main"
+  },
+  "pusher": {
+    "name": "gamagnolo",
+    "email": "36188057+gamagnolo@users.noreply.github.com"
+  },
+  "sender": {
+    "login": "gamagnolo",
+    "id": 36188057,
+    "node_id": "MDQ6VXNlcjM2MTg4MDU3",
+    "avatar_url": "https://avatars.githubusercontent.com/u/36188057?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/gamagnolo",
+    "html_url": "https://github.com/gamagnolo",
+    "followers_url": "https://api.github.com/users/gamagnolo/followers",
+    "following_url": "https://api.github.com/users/gamagnolo/following{/other_user}",
+    "gists_url": "https://api.github.com/users/gamagnolo/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/gamagnolo/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/gamagnolo/subscriptions",
+    "organizations_url": "https://api.github.com/users/gamagnolo/orgs",
+    "repos_url": "https://api.github.com/users/gamagnolo/repos",
+    "events_url": "https://api.github.com/users/gamagnolo/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/gamagnolo/received_events",
+    "type": "User",
+    "site_admin": false
+  },
+  "created": false,
+  "deleted": false,
+  "forced": false,
+  "base_ref": null,
+  "compare": "https://github.com/gamagnolo/quarkus-quickstarts/compare/b718c42fac2e...8f70f8f595f2",
+  "commits": [
+    {
+      "id": "8f70f8f595f235f6f348c6e9c4df97a5275a9597",
+      "tree_id": "fd05330281c8f117facce36e1b2dd286b06d4faa",
+      "distinct": true,
+      "message": "asd",
+      "timestamp": "2021-07-05T22:37:39+02:00",
+      "url": "https://github.com/gamagnolo/quarkus-quickstarts/commit/8f70f8f595f235f6f348c6e9c4df97a5275a9597",
+      "author": {
+        "name": "gamagnolo",
+        "email": "ffabi@redhat.com"
+      },
+      "committer": {
+        "name": "gamagnolo",
+        "email": "ffabi@redhat.com"
+      },
+      "added": [
+
+      ],
+      "removed": [
+
+      ],
+      "modified": [
+        "getting-started/src/main/resources/META-INF/resources/index.html"
+      ]
+    }
+  ],
+  "head_commit": {
+    "id": "8f70f8f595f235f6f348c6e9c4df97a5275a9597",
+    "tree_id": "fd05330281c8f117facce36e1b2dd286b06d4faa",
+    "distinct": true,
+    "message": "asd",
+    "timestamp": "2021-07-05T22:37:39+02:00",
+    "url": "https://github.com/gamagnolo/quarkus-quickstarts/commit/8f70f8f595f235f6f348c6e9c4df97a5275a9597",
+    "author": {
+      "name": "gamagnolo",
+      "email": "ffabi@redhat.com"
+    },
+    "committer": {
+      "name": "gamagnolo",
+      "email": "ffabi@redhat.com"
+    },
+    "added": [
+
+    ],
+    "removed": [
+
+    ],
+    "modified": [
+      "getting-started/src/main/resources/META-INF/resources/index.html"
+    ]
+  }
+}
